@@ -11,3 +11,4 @@
 * Add block patterns
 */
 require get_template_directory() . '/block-patterns.php';
+
