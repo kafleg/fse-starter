@@ -112,8 +112,6 @@ function fse_starter_theme_support() {
     add_theme_support( 'customize-selective-refresh-widgets' );
 }
 add_action( 'after_setup_theme', 'fse_starter_theme_support' );
-*/
-
 /**
 * Add block patterns
 */
